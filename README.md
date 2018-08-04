@@ -4,3 +4,5 @@ celta
 verde
 escada
 cabo UTP
+alicate
+martelo
